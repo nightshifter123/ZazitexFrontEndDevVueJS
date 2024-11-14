@@ -1,0 +1,66 @@
+[
+  {
+    "title": "7 SPICE Pâine cu grâu încolțit 350g",
+    "image": "/products/prod-1.webp",
+    "price": 13.35,
+    "rating": 4,
+    "manufacturer": "7 SPICE",
+    "quantity": 30
+  },
+  {
+    "title": "7 SPICE Paine Cu porumb, feliata amb. 350g",
+    "image": "/products/prod-2.webp",
+    "price": 7.45,
+    "rating": 4,
+    "manufacturer": "7 SPICE",
+    "quantity": 50
+  },
+  {
+    "title": "FRANZELUTA Franzela Extra feliata amb. c/s 430g",
+    "image": "/products/prod-3.webp",
+    "price": 6.40,
+    "rating": 4,
+    "manufacturer": "FRANZELUTA",
+    "quantity": 40
+  },
+  {
+    "title": "BUCURIA Bomboane Valurii Marii 250g",
+    "image": "/products/prod-4.webp",
+    "price": 25.25,
+    "rating": 3,
+    "manufacturer": "BUCURIA",
+    "quantity": 70
+  },
+  {
+    "title": "BUCURIA Bomboane Pasare Maiastra banana 150g",
+    "image": "/products/prod-5.webp",
+    "price": 27.75,
+    "rating": 5,
+    "manufacturer": "BUCURIA",
+    "quantity": 110
+  },
+  {
+    "title": "BUCURIA Bomboane Chișinau de Seara vișina 250g",
+    "image": "/products/prod-6.webp",
+    "price": 55.15,
+    "rating": 5,
+    "manufacturer": "BUCURIA",
+    "quantity": 101
+  },
+  {
+    "title": "GELD-PROGRES Salam de casa semiafumat, kg",
+    "image": "/products/prod-7.webp",
+    "price": 33.30,
+    "rating": 3,
+    "manufacturer": "GELD-PROGRES",
+    "quantity": 44
+  },
+  {
+    "title": "VERONNI Parizer Martadella, kg",
+    "image": "/products/prod-8.webp",
+    "price": 42.50,
+    "rating": 4,
+    "manufacturer": "VERONNI",
+    "quantity": 72
+  }
+]
